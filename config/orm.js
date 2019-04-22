@@ -1,3 +1,5 @@
+// Connect connection file to orm
+// orm setup: selectAll / insertOne / updateOne
 var connection = require("../config/connection.js");
 
 
